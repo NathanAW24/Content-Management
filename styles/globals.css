@@ -1,0 +1,8 @@
+/* @tailwind base; */
+@tailwind components;
+@tailwind utilities;
+.ant-switch-checked {
+    background: #1890ff;
+}
+/* This is required to align icons inside buttons to look centered */
+svg { vertical-align: baseline; }
