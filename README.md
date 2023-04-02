@@ -1,3 +1,6 @@
+# Content-Management-Frontend
+Created using Next.js framework, and GraphQL API query language.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
